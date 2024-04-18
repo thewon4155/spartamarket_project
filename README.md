@@ -25,8 +25,8 @@
 a Django based website that runs apps of User, Product, Bookmark and allows Users to select items of preference
 
 2. Software Used:
-Main Framework: Django, Python
-DB: SQlite
+Main Framework: Django 5.0.4, Python 3.12.1
+DB: SQlite3
 Frontend: HTML
 
 3. Operating Functions:
