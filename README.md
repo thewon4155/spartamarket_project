@@ -32,3 +32,13 @@ Frontend: HTML
 3. Operating Functions:
 Post CR(Only Create and Read are currently functional). Signup, login functions are also supported.
 But haven't figured the merge of 'Bookmark' into the above function.
+
+4. How to Run(Terminal):
+python -m venv myenv : Create venv virtual environment
+
+pip install django : install Django
+
+python manage.py makemigrations
+python manage.py migrate            : apply to DB
+
+python manage.py runserver : Run
