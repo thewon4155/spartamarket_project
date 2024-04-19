@@ -42,3 +42,7 @@ python manage.py makemigrations
 python manage.py migrate            : apply to DB
 
 python manage.py runserver : Run
+
+5.. Restrictions/Limitations:
+After making a new 'Bookmark' application, the applications somehow are colliding and an error occurs.
+The error code seems to be related with __init.py.__ but its an empty path way, which has nothing to do with.
